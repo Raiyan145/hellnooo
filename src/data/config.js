@@ -9,10 +9,10 @@ export const COUPLE = {
   // How the hero greeting reads:  "Happy Anniversary <heroName>"
   heroName: 'My Love',
   // Signed at the very end of the experience.
-  signature: 'Forever Yours',
+  signature: 'Tarhan Eshal',
   // The day your story became official — powers the live anniversary counter.
   // Format: YYYY, MM (1-12), DD
-  weddingDate: { year: 2020, month: 2, day: 14 },
+  weddingDate: { year: 2022, month: 10, day: 1 },
   // Which anniversary this celebrates (optional, cosmetic). null = auto.
   anniversaryNumber: null,
 }
